@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-<img src="images/britishColumbia.JPG" style="width:100%; margin-right: 20px" align="left">
+<img src="images/britishColumbia.JPG" style="width:65%; margin-right: 25px" align="left">
 
 &nbsp;
 

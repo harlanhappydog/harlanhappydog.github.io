@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/harlan_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/harlan_2.jpg" style="width:30%; border:10px solid; margin-right: 20px" align="left">
 
 Statistics allows us to better understand the world around us. Working and sharing ideas with other researchers is an immensely rewarding experience for me.  My interests are in statistitcal methods, meta-research, and statistical applications in ecology, epidemiology and clinical trials.  I also am passionate about teaching statistics to others.
 
