@@ -3,6 +3,8 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<img src="images/hike.JPG" style="width:55%; margin-right: 25px" align="left">
+
 
 &nbsp;
 
@@ -12,8 +14,6 @@
 
 ## Teaching
 
-### STAT 306: Relationships in Data 
+### STAT 306: Relationships in Data (2018)
 
-\  This course emphasizes (i) applications of statistical methods such as multiple regression, binary regression, principal component analysis; (ii) the use of statistical software to do the computations; and (iii) interpretation of statistical analysis and output of statistical software. 
-
-\  [course website](https://harlanhappydog.github.io/STAT306/)
+\  This UBC undergratuate statistics course emphasizes (i) applications of statistical methods such as multiple regression, binary regression, principal component analysis; (ii) the use of statistical software to do the computations; and (iii) interpretation of statistical analysis and output of statistical software.   [course website](https://harlanhappydog.github.io/STAT306/)

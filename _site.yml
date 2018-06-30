@@ -5,8 +5,6 @@ navbar:
   left:
     - text: "Research"
       href: research.html
-    - text: "Programming"
-      href: software.html
     - text: "Teaching"
       href: teaching.html
   right:
