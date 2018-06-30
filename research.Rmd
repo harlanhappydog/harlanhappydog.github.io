@@ -10,7 +10,7 @@
 
 ### Selected Publications
 
-All publications listed on [Google Scholar Profile](goo.gl/bwEc9j)
+All publications listed on [Google Scholar Profile](https://goo.gl/bwEc9j)
 
 &nbsp;
 
@@ -133,14 +133,14 @@ All publications listed on [Google Scholar Profile](goo.gl/bwEc9j)
 
 
 
-[A significance test for forward stepwise model selection, JR Loftus and JE Taylor](https://arxiv.org/pdf/1405.3920.pdf)
+##### [A significance test for forward stepwise model selection, JR Loftus and JE Taylor](https://arxiv.org/pdf/1405.3920.pdf)
 
 
-[Using stacking to average Bayesian predictive distributions, Yao et al.](https://arxiv.org/pdf/1704.02030.pdf)
+##### [Using stacking to average Bayesian predictive distributions, Yao et al.](https://arxiv.org/pdf/1704.02030.pdf)
 
 
 
-[Trying to be precise about vagueness, S Senn](https://pdfs.semanticscholar.org/7f16/c1615b1b189f2b60a636b63efabb57e7275a.pdf)
+##### [Trying to be precise about vagueness, S Senn](https://pdfs.semanticscholar.org/7f16/c1615b1b189f2b60a636b63efabb57e7275a.pdf)
 
 <!-- &nbsp; -->
 

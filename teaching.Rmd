@@ -14,6 +14,6 @@
 
 ## Teaching
 
-### STAT 306: Relationships in Data (2018)
+#### STAT 306: Relationships in Data (2018)
 
 \  This UBC undergratuate statistics course emphasizes (i) applications of statistical methods such as multiple regression, binary regression, principal component analysis; (ii) the use of statistical software to do the computations; and (iii) interpretation of statistical analysis and output of statistical software.   [course website](https://harlanhappydog.github.io/STAT306/)
