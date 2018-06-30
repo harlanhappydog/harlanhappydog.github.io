@@ -1,0 +1,77 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/britishColumbia.JPG" style="width:100%; margin-right: 20px" align="left">
+
+
+&nbsp;
+
+&nbsp;
+
+## Publications
+
+&nbsp;
+
+#####   [Conditional equivalence testing: an alternative remedy to publication bias](https://doi.org/10.1371/journal.pone.0195145)
+\  H Campbell and P Gustafson, PLoS ONE 13(4): e0195145 (2018).
+\  We introduce a publication policy that incorporates “conditional equivalence testing” (CET), a two-stage testing scheme in which standard NHST is followed conditionally by testing for equivalence. The idea of CET is carefully considered as it has the potential to address recent concerns about reproducibility and the limited publication of null results. In this paper we detail the implementation of CET, investigate similarities with a Bayesian testing scheme, and outline the basis for how a scientific journal could proceed to reduce publication bias while remaining relevant.
+  
+&nbsp;
+
+#####    [Twin data that made a big difference, and that deserve to be better-known and used in teaching](http://www.tandfonline.com/doi/full/10.1080/10691898.2017.1381055)
+\    H Campbell, JA Hanley, Journal of Statistical Education, 25.3 (2017): 131-136.
+
+&nbsp;
+
+
+##### [The consequences of proportional-hazards based model selection](http://onlinelibrary.wiley.com/doi/10.1002/sim.6021/full)
+\  H Campbell and CB Dean,  Statistics in Medicine, 33.6, (2014): 1042-1056.    
+
+&nbsp;
+
+#####   [Comparison of reducing epicardial fat by exercise, diet or bariatric surgery weight loss strategies: A systematic review and meta-analysis](http://www.ncbi.nlm.nih.gov/pubmed/25753297)
+\ S Rabkin and H Campbell, Obesity Reviews, 16.5 (2015): 406-415.
+
+&nbsp;
+
+##### [Comparison of hemoglobin A1c results based on at-home and in-lab dried blood spot sampling to routine venous blood sampling in-lab in adult patients with type 1 or type 2 diabetes](https://www.sciencedirect.com/science/article/pii/S1499267117302678)
+\  TG Elliott,  KC Dooley, M Zhang, H Campbell, DJS Thompson, Canadian Journal of Diabetes (2017).   
+
+
+
+
+
+
+&nbsp;
+
+#####    [Sleep assessments for a mild traumatic brain injury trial in a military population](https://www.uhms.org/index.php?option=com_acymailing&ctrl=archive&task=view&mailid=335&key=IbrfNxTG&subid=6915-NRE2PLwtSo01Di&tmpl=component)
+\ JM Walker, NT James, H Campbell, SH Wilson, S Churchill, LK Weaver, Undersea and Hyperbaric Medicine Journal, 43.5, (2016). 
+
+
+ 
+
+
+&nbsp;
+
+#####      [Impact on diabetes care of access to an online patient portal](http://www.sciencedirect.com/science/article/pii/S1499267113013567)
+\  M Lau, H Campbell, T Tang, DJS Thompson, and T Elliott, Canadian Journal of Diabetes, 38.1 (2014): 17-21.  
+
+
+&nbsp;
+
+#####      [Modelling factors that affect the presence of larval mosquitoes (diptera: culicidae) in stormwater drainage systems to improve the efficacy of control programmes](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9073308&fileId=S0008347X13000461)
+\  MJ Jackson, JL Gow, MJ Evelyn, TJS McMahon, H Campbell, J Sheppard, TJ Howay, D Fladmark, A Thielman, The Canadian Entomologist, 145.06 (2013): 674-685.
+
+ &nbsp;
+
+#####      [An evaluation of the effectiveness of a commercial mechanical trap to reduce abundance of adult nuisance mosquito populations](http://www.bioone.org/doi/abs/10.2987/12-6241R.1)
+\  MJ Jackson, JL Gow, MJ Evelyn, TJS McMahon, TJ Howay, H Campbell, J Blancard, and A Thielman, Journal of the American Mosquito Control Association, 28.4 (2012): 292-300.
+
+
+ &nbsp;
+
+#####     [Model-based clustering of longitudinal data: application to modeling disease course and gene expression trajectories](http://www.tandfonline.com/doi/abs/10.1080/03610918.2012.625767)
+\  A Ciampi,  {H Campbell}, A Dyachenko, B Rich, J McCusker, and MG Cole, Communications in Statistics-Simulation and Computation, 41.7 (2012): 992-1005.
+
