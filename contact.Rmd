@@ -3,6 +3,17 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+
+<img src="images/britishColumbia.JPG" style="width:100%; margin-right: 20px" align="left">
+
+&nbsp;
+
+&nbsp;
+
+
+## Contact
+
+
 \  Department of Statistics  
 \  Faculty of Science  
 \  3182 Earth Sciences Building, 2207 Main Mall  
