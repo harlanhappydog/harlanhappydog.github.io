@@ -5,7 +5,7 @@
 
 <img src="images/harlan_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to breast cancer through my work as a Research Biostatistician at  in the department of Statistics. 
+Statistics allows us to better understand the world around us. Working and sharing ideas with other researchers is an immensely rewarding experience for me.  My interests are in statistitcal methods, meta-research, and statistical applicaitons in ecology, epidemiology and clinical trials.  I also am passionate about teaching statistics to others.
 
 I graduated from the [Simon Fraser University](https://www.stat.sfu.ca/) with a MSc in Statistics in 2011, under the supervision of [Dr. Charmaine Dean](http://www.uwo.ca/sci/dean/).  My MSc thesis work was subsequently published in [Statistics in Medicine](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.6021).  In 2012, I began working as a statistical consultant for EMMES Canada, providing statistical services as a partner to clinicians and scientists. In 2015, I began work toward my PhD in Statistics at the [University of British Columbia](https://www.stat.ubc.ca/), where I am investigating the reliability and reproducibility of published research under the advisement of [Dr. Paul Gustafson](http://www.paulgstf.com/). I expect to graduate by the end of 2018.
 
