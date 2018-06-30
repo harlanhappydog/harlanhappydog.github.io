@@ -1,0 +1,21 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+\  Department of Statistics  
+\  Faculty of Science  
+\  3182 Earth Sciences Building, 2207 Main Mall  
+\  Vancouver, BC Canada V6T 1Z4  
+\  harlan.campbell@stat.ubc.ca  
+
+
+
+\  EMMES Canada CRO  
+\  104-4664 Lougheed Highway  
+\  Burnaby, BC V5C 5T5  
+\  hcampbell@emmes.com
+
+  
+
+Or connect with me on Twitter, or Linkedin (links in top right).

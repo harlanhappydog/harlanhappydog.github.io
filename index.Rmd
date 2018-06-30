@@ -5,9 +5,9 @@
 
 <img src="images/harlan_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to breast cancer through my work as a Research Biostatistician at [University of British Columbia](https://www.stat.ubc.ca/) in the department of Statistics. 
+I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to breast cancer through my work as a Research Biostatistician at  in the department of Statistics. 
 
-I graduated from the [Simon Fraser University](https://www.stat.sfu.ca/) with a MS in Statistics in 2011. In 2012 I began working toward my DrPH in biostatistics as a part-time student at [Columbia University](https://www.mailman.columbia.edu/become-student/departments/biostatistics), where I am investigating statistical methods for the study of etiologic heterogeneity in epidemiologic studies under the advisement of [Dr. Shuang Wang](https://www.mailman.columbia.edu/people/our-faculty/sw2206) at Columbia University and [Dr. Colin Begg](https://www.mskcc.org/profile/colin-begg) at Memorial Sloan Kettering Cancer Center. I expect to graduate by the end of 2018.
+I graduated from the [Simon Fraser University](https://www.stat.sfu.ca/) with a MSc in Statistics in 2011, under the supervision of [Dr. Charmaine Dean](http://www.uwo.ca/sci/dean/).  My MSc thesis work was subsequently published in [Statistics in Medicine](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.6021).  In 2012, I began working as a statistical consultant for EMMES Canada, providing statistical services as a partner to clinicians and scientists. In 2015, I began work toward my PhD in Statistics at the [University of British Columbia](https://www.stat.ubc.ca/), where I am investigating the reliability and reproducibility of published research under the advisement of [Dr. Paul Gustafson](http://www.paulgstf.com/). I expect to graduate by the end of 2018.
 
 
 My full CV is available [here](files/CVHarlanCampbell11.pdf).
