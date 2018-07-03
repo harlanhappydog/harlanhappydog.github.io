@@ -5,11 +5,11 @@
 
 <img src="images/photo.jpg" style="width:26%; border:10px solid; margin-right: 20px" align="left">
 
-Statistics allows us to better understand the world around us.   My interests are in statistitcal methods, meta-research, and statistical applications in ecology, epidemiology and clinical trials.
+Statistics allows us to better understand the world around us.   My interests are in hypothesis testing, causal inference, meta-research, and statistical applications in ecology, epidemiology and clinical trials.
 
-In 2011, I graduated from the Simon Fraser University with a MSc in Statistics, under the supervision of [Dr. Charmaine Dean](http://www.uwo.ca/sci/dean/). My MSc thesis, on the subject of model selection bias, was subsequently published in [Statistics in Medicine](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.6021).  
+In 2011, I graduated from the Simon Fraser University with a MSc in Statistics, under the supervision of [Dr. Charmaine Dean](http://www.uwo.ca/sci/dean/). My MSc thesis, on the subject of model selection bias, was subsequently published in [Statistics in Medicine](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.6021).  I began work as a statistical consultant for [EMMES Canada CRO](https://secure.emmes.com/emmesweb/emmes-global/canada) in 2012, collaborating on a wide range of prejects as a partner to clinicians and scientists.
 
-In 2012, I began work as a statistical consultant for [EMMES Canada CRO](https://secure.emmes.com/emmesweb/emmes-global/canada), providing statistical services as a partner to clinicians and scientists collaborating on a wide range of prejects. In 2015, I started a PhD in Statistics at the University of British Columbia, where I am investigating the reliability and reproducibility of published research with [Dr. Paul Gustafson](http://www.paulgstf.com/). I expect to graduate by the end of 2018.
+In 2015, I started a PhD in Statistics at the University of British Columbia, where I am investigating the reliability and reproducibility of published research with [Dr. Paul Gustafson](http://www.paulgstf.com/). I expect to graduate by the end of 2018.
 
 
 My full CV is available [here](files/CVHarlanCampbell11.pdf).
