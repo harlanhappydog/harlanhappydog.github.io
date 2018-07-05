@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/hike.JPG" style="width:55%; margin-right: 25px" align="left">
+<!-- &nbsp; <img src="images/hike.JPG" style="width:55%; margin-right: 25px" align="left"> -->
 
 
 &nbsp;

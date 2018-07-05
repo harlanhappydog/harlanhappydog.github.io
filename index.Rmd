@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/photo.jpg" style="width:26%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/harlan_2.jpg" style="width:26%; border:10px solid; margin-right: 20px" align="left">
 
 Statistics allows us to better understand the world around us.   My interests are in hypothesis testing, causal inference, meta-research, and statistical applications in ecology, epidemiology and clinical trials.
 
