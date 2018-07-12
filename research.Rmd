@@ -80,6 +80,10 @@ All publications listed on [Google Scholar Profile](https://goo.gl/bwEc9j)
 \ The objectives of this meta-analysis were to determine whether epicardial fat (EAT) is subject to modification, and whether various strategies accomplish this end point and the relationship between weight loss and EAT. A systematic review of the literature following meta-analysis guidelines was conducted using the search strategy 'epicardial fat' OR 'epicardial adipose tissue' AND 'diet' OR 'exercise' OR 'bariatric surgery (BS)' OR 'change in body weight' limited to humans. Eleven articles were identified with 12 intervention approaches of which eight studies showed a statistically significant reduction in EAT. A random-effects meta-analysis suggests an overall significant reduction of 1.12 standardized units (95% CI = [-1.71, -0.54], P value < 0.01). While there is a large amount of heterogeneity across study groups, a substantial amount of this variability can be accounted for by considering intervention type and change in body mass index (BMI). These variables were incorporated into a random-effects meta-regression model.
 
 
+&nbsp;
+
+&nbsp;
+
 
 &nbsp;
 
@@ -107,10 +111,14 @@ All publications listed on [Google Scholar Profile](https://goo.gl/bwEc9j)
 &nbsp;
 
 
+
 &nbsp;
 
 
-### Pre-prints
+&nbsp;
+
+
+### Pre-prints and other writting
 
 
 
@@ -121,6 +129,9 @@ All publications listed on [Google Scholar Profile](https://goo.gl/bwEc9j)
 #####      [Is it even rainier in North Vancouver? A non-parametric rank-based test for semicontinuous longitudinal data](https://arxiv.org/abs/1711.08876)
 \  Harlan Campbell
 
+
+#####      [The Nemiah Valley: Title land, sacred land](files/NemiahValley.pdf)
+\  Harlan Campbell
 
 &nbsp;
 
@@ -138,7 +149,6 @@ All publications listed on [Google Scholar Profile](https://goo.gl/bwEc9j)
 
 
 ##### [Using stacking to average Bayesian predictive distributions, Yao et al.](https://arxiv.org/pdf/1704.02030.pdf)
-
 
 
 ##### [Trying to be precise about vagueness, S Senn](https://pdfs.semanticscholar.org/7f16/c1615b1b189f2b60a636b63efabb57e7275a.pdf)
