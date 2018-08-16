@@ -10,7 +10,21 @@
 
 ### Selected Publications
 
-All publications listed on [Google Scholar Profile](https://goo.gl/bwEc9j)
+(All publications listed on [Google Scholar Profile](https://goo.gl/bwEc9j))
+
+&nbsp;
+
+<img src="images/DAG1_V2.jpg" style="width:40%; margin-right: 20px" align="right">
+
+##### [The Validity and Efficiency of Hypothesis Testing in Observational Studies with Time-Varying Exposures](https://obsstudies.org/validity-efficiency-hypothesis-testing-observational-studies-time-varying-exposures/)
+\  **H Campbell** and [P Gustafson](http://www.paulgstf.com/), Observational Studies (2018).
+
+\ The fundamental obstacle of observational studies is that of unmeasured confounding.  If all potential confounders are measured within the data, and treatment occurs at but a single time-point, conventional regression adjustment methods provide consistent estimates and allow for valid hypothesis testing in a relatively straightforward manner.  However, in situations for which treatment occurs at several successive timepoints, another type of confounding is also problematic: time-dependent confounding may bias estimates and invalidate testing due to collider-stratification.  While “causal inference methods” can adequately adjust for time-dependent confounding, these methods require strong and unverifiable assumptions.  Alternatively, instrumental variable analysis can be used. This paper sheds light on the issues involved when considering the relative merits of these two approaches for the purpose of hypothesis testing in the presence of time-dependent confounding.
+  
+&nbsp;
+  
+&nbsp;
+
 
 &nbsp;
 
@@ -24,7 +38,12 @@ All publications listed on [Google Scholar Profile](https://goo.gl/bwEc9j)
 &nbsp;
   
 &nbsp;
+
+  &nbsp;
   
+
+
+&nbsp;
 
 &nbsp;
   
@@ -121,6 +140,8 @@ All publications listed on [Google Scholar Profile](https://goo.gl/bwEc9j)
 ### Pre-prints and other writting
 
 
+#####      [What to make of non-inferiority and equivalence testing with a post-specified margin?](https://arxiv.org/abs/1807.03413)
+\  Harlan Campbell, Paul Gustafson
 
 #####      [The world of research has gone berserk: modeling the consequences of requiring "greater statistical stringency" for scientific publication](https://arxiv.org/abs/1803.06053)
 \  Harlan Campbell, Paul Gustafson
