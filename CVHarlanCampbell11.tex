@@ -1,0 +1,617 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+%
+% please put your name, the program to which you are applying and the year and quarter at the top of the document.
+
+\documentclass[letterpaper]{article}
+
+\usepackage{geometry}
+\usepackage{tabbing}
+\usepackage{listliketab}
+\usepackage{setspace}
+\usepackage{multicol}
+\usepackage{color}
+\usepackage{changepage}
+\usepackage{url}
+
+
+
+
+\usepackage{fancyhdr}
+ 
+\usepackage[T1]{fontenc}
+\usepackage[light]{merriweather} %% Option 'black' gives heavier bold face 
+
+%\usepackage{cmbright}
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+
+
+  \let\oldurl\url
+  \let\linkurl\url
+  \let\url\oldurl
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+
+% Set your name here
+\def\name{Harlan Campbell}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+ \def\footerlink{}
+
+% The following metadata will show up in the PDF properties
+\usepackage{xcolor}
+\usepackage[colorlinks = true,
+            linkcolor = blue,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = blue]{hyperref}
+
+\newcommand{\MYhref}[3][blue]{\href{#2}{\color{#1}{#3}}}%
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.5in,
+  right=1.5in,
+  top=1.3in,
+  bottom=2.0in
+}
+
+% Customize page headers
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{2018}
+\lhead{\name}
+\rfoot{Page \thepage}
+\thispagestyle{empty}
+
+
+
+
+% Custom section fonts
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+\normalsize
+\ttfamily
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+
+% Place name at left
+
+%hcampbell@emmes.com
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+%\noindent\hrulefill
+\vspace{0.025in}
+
+
+% Place name at left
+{\huge \textbf \name}\\
+harlancampbell@gmail.com\noindent\hrulefill \\
+%hcampbell@emmes.com
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+%\noindent\hrulefill
+\vspace{0.025in}
+
+
+\vspace{-0.25in}
+\section*{Education}
+%\vspace{-0.05in}
+\begin{spacing}{0.3}
+\hspace{0.1in} \textbf{University of British Columbia},  PhD Candidate - \emph{Statistics} \hfill \emph{ongoing}\\ \\ 
+\vspace{0.15in} 
+\hspace{0.1in}  Supervisor:              Prof. Paul Gustafson    \hfill September, 2015-  \\
+%\MYhref[cyan]{https://www.stat.ubc.ca/users/harlan-campbell}{\emph{link}}
+\end{spacing}
+
+\vspace{0.12in}
+
+
+
+\begin{spacing}{0.3}
+\hspace{0.1in} \textbf{Simon Fraser University},  Master of Science - \emph{Statistics} \hfill \textcolor{white}{--} December, 2011  \\
+\vspace{0.15in} 
+\hspace{0.1in}  Supervisor:              Prof. Charmaine Dean  \hfill  \hfill September, 2009-   \\
+
+
+\end{spacing}
+
+\vspace{0.1in}
+
+\begin{spacing}{0.3}
+\hspace{0.1in} \textbf{McGill University}, Bachelor of Science - \emph{Mathematics} \hfill  \textcolor{white}{--}December, 2008\\
+\vspace{0.15in} 
+\hspace{0.1in}  Minor concentration in music  \hfill  \hfill September, 2004-   \\
+
+
+\end{spacing}
+
+\vspace{0.025in}
+\section*{Employment}
+%\vspace{-0.05in}
+
+
+\begin{spacing}{0.25}
+\hspace{0.1in} {\textbf{UBC Department of Statistics}}  --Instructor \hfill \textcolor{white}{--} \emph{May 2018} \\ \\
+\vspace{0.15in}
+\hspace{0.1in} Teaching \MYhref[cyan]{https://harlanhappydog.github.io/STAT306/}{{STAT 306}} for 145 undergraduate students     \hfill January, 2018-\\ 
+\end{spacing}
+\vspace{0.15in}
+
+\begin{spacing}{0.25}
+\hspace{0.1in} {\textbf{EMMES Canada CRO}}  --Statistician \hfill \textcolor{white}{--} \emph{ongoing (casual)} \\ \\
+\vspace{0.15in}
+\hspace{0.1in} Providing statistical services as a partner to clinicians and scientists  \hfill July, 2012-Oct, 2017\\ 
+%\MYhref[cyan]{https://secure.emmes.com/emmesweb/emmes-global/canada}
+
+%\vspace{0.03in}
+% \hspace{0.39in}  \MYhref[cyan]{http://clinicaltrials.gov/show/NCT01611194} {mTBI Mechanisms of Action of HBO2 for Persistent}\\ 
+%  \vspace{0.01in}
+% \hspace{0.35in}   \MYhref[cyan]{http://clinicaltrials.gov/show/NCT01611194}{Post-Concussive Symptoms (BIMA)};\\
+%  \vspace{0.01in}
+% \hspace{0.45in} 
+% Sponsor: U.S. Army Medical Research and Materiel Command \\
+%   \vspace{0.01in}
+% \hspace{0.45in} 
+%
+% 
+%\vspace{0.03in}
+% \hspace{0.39in} Comparison of home sampling of A1c with blotter paper to \\
+%   \vspace{0.01in}
+% \hspace{0.35in} A1c from local in-lab venous blood sample;\\
+%  \vspace{0.01in}
+% \hspace{0.45in} 
+% Sponsor: 
+%LifeLabs Medical Laboratory Services   \\
+%  \vspace{0.01in}
+% \hspace{0.45in} 
+%
+%\vspace{0.03in}
+% \hspace{0.39in} \MYhref[cyan]{http://www.areds2.org/}{The Age-Related Eye Disease Study 2 (AREDS2)};\\
+%  \vspace{0.01in}
+% \hspace{0.45in} 
+% Sponsor: National Eye Institute   \\
+%
+%
+
+\end{spacing}
+
+
+%\begin{spacing}{0.3}
+%\hspace{0.1in} \textbf{Statistical Consulting, Data Visualization and Analysis} \hfill 2009 -- 2012\\
+%\vspace{0.05in}
+%\storestyleof{itemize}
+%\begin{listliketab}
+%  \begin{tabular}{llll}
+   %  & Clients include: & - Culex Environmental&\\
+    % &  & - Ministry of Environment, Thompson Region&\\
+    % &  & - Department of Criminology, SFU&\\
+ %   \end{tabular}
+%\end{listliketab}
+%\end{spacing}
+
+\vspace{0.15in}
+\begin{spacing}{0.25}
+\hspace{0.1in} {\textbf{Cardiome Pharma}} --Statistics Intern \hfill December, 2011 \\
+%\vspace{0.01in} \MYhref[cyan]{http://www.cardiome.com/}
+\hspace{0.1in} \textcolor{white}{--}   \hfill September, 2011- \\
+\end{spacing}
+
+
+%\vspace{0.20in}
+%\begin{spacing}{0.25}
+%\hspace{0.1in} \textbf{Faculty of Epidemiology, Biostatistics and } \hfill July, 2009 \\
+%\vspace{0.05in}
+%\hspace{0.05in}    \textbf{ Occup. Health, McGill University} --Research Assistant  \hfill January, 2009-  \\
+%\vspace{0.025in}
+%\storestyleof{itemize}
+%\end{spacing}
+
+
+\vspace{0.2in}
+\begin{spacing}{0.35}
+\hspace{0.1in} {\textbf{Independent Environmental Consulting}}  \\
+
+\hspace{0.15in}Clients include: \MYhref[cyan]{https://takingroot.org/}{ \indent Taking Root}  (2015-2017)\\
+
+\hspace{1.1in} \MYhref[cyan]{https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0260305516000069}{SFU Glaciology Research} (2015) \\
+
+\hspace{1.1in} \MYhref[cyan]{http://culex.ca}{Culex Environmental} (2011-2012) \\
+
+\hspace{1.1in}  \MYhref[cyan]{http://www.csrd.bc.ca/sites/default/files/liquid-waste-management/Septic-Smart/ResourceLibrary/Evaluation-of-risk-from-Houseboat-greywater.pdf}{BC Ministry of the Environment} (2009)\\
+
+
+\end{spacing}
+
+\vspace{0.05in}
+\section*{Publications}
+\vspace{-0.15in}
+\MYhref[cyan]{https://scholar.google.ca/citations?user=x5pXO3UAAAAJ&hl=en&oi=ao}{\hspace{0.15in} \emph{google scholar}}
+
+
+%\begin{small}
+%\subsection*{Journal Articles}
+
+\begin{enumerate}
+
+\item{ {The validity and efficiency of hypothesis testing in observational studies with time-varying exposures}, H Campbell and P Gustafson, \emph{Observational Studies}, (2018), \MYhref[cyan]{https://obsstudies.org/validity-efficiency-hypothesis-testing-observational-studies-time-varying-exposures/}{\emph{link}} }
+
+
+\item{{Conditional equivalence testing: an alternative remedy to publication bias}, H Campbell and P Gustafson, \emph{PLoS ONE} 13(4): e0195145 (2018).  \MYhref[cyan]{https://doi.org/10.1371/journal.pone.0195145}{\emph{link}}}
+
+
+
+\item {Twin data that made a big difference, and that deserve to be better-known and used in teaching}, H Campbell, JA Hanley, \emph{Journal of Statistical Education}, 25.3 (2017): 131-136.  \MYhref[cyan]{http://www.tandfonline.com/doi/full/10.1080/10691898.2017.1381055}{\emph{link}}
+
+
+
+\item{ {The consequences of proportional-hazards based model selection}, {H Campbell} and CB Dean, {\it Statistics in Medicine} 33.6, (2014): 1042-1056. \MYhref[cyan]{http://onlinelibrary.wiley.com/doi/10.1002/sim.6021/full}{\emph{link}}}
+
+
+\item{ {Comparison of hemoglobin A1c results based on at-home and in-lab dried blood spot sampling to routine venous blood sampling in-lab in adult patients with type 1 or type 2 diabetes}, TG Elliott,  KC Dooley, M Zhang, H Campbell, DJS Thompson, \emph{Canadian Journal of Diabetes}, in press (2017), 7 pages. \MYhref[cyan]{https://www.sciencedirect.com/science/article/pii/S1499267117302678}{\emph{link} }}
+
+\item {Sleep assessments for a mild traumatic brain injury trial in a military population}, JM Walker, NT James, H Campbell, SH Wilson, S Churchill, LK Weaver, {\it Undersea and Hyperbaric Medicine Journal} 43.5, (2016). \MYhref[cyan]{https://www.uhms.org/index.php?option=com_acymailing&ctrl=archive&task=view&mailid=335&key=IbrfNxTG&subid=6915-NRE2PLwtSo01Di&tmpl=component}{\emph{link}}
+
+
+\item {{Comparison of reducing epicardial fat by exercise, diet or bariatric surgery weight loss strategies: A systematic review and meta-analysis}}, S Rabkin and {H Campbell}, {\it Obesity Reviews}, 16.5 (2015): 406-415. \MYhref[cyan]{http://www.ncbi.nlm.nih.gov/pubmed/25753297}{\emph{link}}
+
+
+\item {{Impact on diabetes care of access to an online patient portal}}, M Lau, {H Campbell}, T Tang, DJS Thompson, and T Elliott, {\it Canadian Journal of Diabetes}, 38.1 (2014): 17-21.  \MYhref[cyan]{http://www.sciencedirect.com/science/article/pii/S1499267113013567}{\emph{link}}
+
+
+\item {{Modelling factors that affect the presence of larval mosquitoes (diptera: culicidae) in stormwater drainage systems to improve the efficacy of control programmes}}, MJ Jackson, JL Gow, MJ Evelyn, TJS McMahon, {H Campbell}, J Sheppard, TJ Howay, D Fladmark, A Thielman, \emph{The Canadian Entomologist}, 145.06 (2013): 674-685. \MYhref[cyan]{http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9073308&fileId=S0008347X13000461}{\emph{link}}
+
+
+\item  {{An evaluation of the effectiveness of a commercial mechanical trap to reduce abundance of adult nuisance mosquito populations}}, MJ Jackson, JL Gow, MJ Evelyn, TJS McMahon, TJ Howay, {H Campbell}, J Blancard, and A Thielman, \emph{Journal of the American Mosquito Control Association}, 28.4 (2012): 292-300. \MYhref[cyan]{http://www.bioone.org/doi/abs/10.2987/12-6241R.1}{\emph{link}}
+
+
+\item {{Model-based clustering of longitudinal data: application to modeling disease course and gene expression trajectories}},  A Ciampi,  {H Campbell}, A Dyachenko, B Rich, J McCusker, and MG Cole, \emph{Communications in Statistics-Simulation and Computation}, 41.7 (2012): 992-1005. \MYhref[cyan]{http://www.tandfonline.com/doi/abs/10.1080/03610918.2012.625767}{\emph{link}}
+
+\end{enumerate}
+
+
+\section*{Working Papers}
+
+\begin{enumerate}
+\item{ {Is it even rainier in North Vancouver? A non-parametric rank-based test for semicontinuous longitudinal data}, H Campbell, revisions for \emph{Journal of Applied Statistics}, 28 pages.}  \MYhref[cyan]{http://arxiv.org/abs/1711.08876}{\emph{pre-print}}
+
+\item{{The world of research has gone berserk: modeling the consequences of requiring ``greater statistical stringency'' for scientific publication}, H Campbell and P Gustafson, submitted to \emph{The American Statistician}.    \MYhref[cyan]{http://arxiv.org/abs/1803.06053}{\emph{pre-print}}}
+
+\item{{What to make of non-inferiority and equivalence testing with a \it{post}-specified  margin?}, H Campbell and P Gustafson, submitted to Pharmaceutical Statistics.   \MYhref[cyan]{https://arxiv.org/abs/1807.03413}{\emph{pre-print}}}
+
+\item{{Equivalence testing for standardized effect sizes: application, implementation and interpretation}, H Campbell and D Lakens, working draft.}
+
+\item{{To make more published research true, should scientists adopt alternatives to null hypothesis significance testing?}, H Campbell and P Gustafson, in preparation for submission to \emph{Statistical Science}.}
+
+
+
+
+
+\end{enumerate}
+
+
+
+\section*{Conference Presentations}
+
+\begin{itemize}
+\item {Conditional equivalence testing}, {H Campbell*, P Gustafson}; \emph{The 46th Annual Meeting of the Statistical Society of Canada}, Montreal, 2018.  Invited talk.
+\end{itemize}
+
+\begin{itemize}
+\item {What to make of non-inferiority and equivalence testing with a post-specified margin?}, {H Campbell*}; \emph{JSM}, Vancouver, 2018.
+\end{itemize}
+
+
+
+\begin{itemize}
+\item {A non-parametric rank based test for semicontinuous longitudinal data}, {H Campbell*}; \emph{The 44th Annual Meeting of the Statistical Society of Canada}, St. Catharines, 2016.  %\MYhref[cyan]{https://ssc.ca/en/2016-methodological-advances-a-smorgasbord}{\emph{link}}
+\end{itemize}
+
+
+\begin{itemize}
+\item {The consequences of proportional-hazards based model selection}, {H Campbell*}, CB Dean; \emph{The Society for Clinical Trials 34th Annual Meeting}, Boston, 2013.  %\MYhref[cyan]{http://ctj.sagepub.com/content/10/2_suppl/S1.full}{\emph{link}}
+\end{itemize}
+
+
+\begin{itemize}
+\item {Survival analysis of British Columbia wildland fires},  {H Campbell*}, CB Dean; \emph{GEOIDE Forestry Virtual Meeting}, 2011. %\MYhref[cyan]{http://people.stat.sfu.ca/~dean/forestry/updates/dokuwiki-2011-05-25a/data/media/events/2011/geoideapril6vcprogram.pdf}{\emph{link}}
+\end{itemize}
+
+
+\begin{itemize}
+\item {Data visualization in R},  {H Campbell*},  \emph{SFU-UBC Joint Graduate Student Workshop in Statistics}, Vancouver, 2011. %\MYhref[cyan]{https://www.pims.math.ca/files/program_workshop.pdf}{\emph{link}}
+\end{itemize}
+
+
+\section*{Conference Posters}
+
+
+\begin{itemize}
+\item{The world of research has gone berserk}, {H Campbell*}, P Gustafson; \emph{JSM}, Vancouver, 2018.  Invited poster presentation.
+\end{itemize}
+
+\begin{itemize}
+\item {Comparison of home sampling of A1c with blotter paper to routine A1c from local in-lab venous blood sample}, {T Elliott*}, K Dooley, M Zhang, H Campbell, D Thompson; \emph{World Diabetes Congress 2015}, Vancouver, 2015.  %\href{https://www.idf.org/sites/default/files/045_2015-progrbook_scientific-part3P-29-10-15.pdf}{\emph{link}}
+\end{itemize}
+
+
+\begin{itemize}
+\item {Impact of patient use of an online patient portal on diabetes outcomes} {M Lau*}, H Campbell,  T Tang, D Thompson, T Elliott;  \emph{The 2013 Family Medicine Forum}, Vancouver, 2013. %\href{https://fmf.cfpc.ca/wp-content/uploads/2014/04/fmf-program-2013.pdf}{\emph{link}}
+\end{itemize}
+
+\begin{itemize}
+\item {{Modeling the survival times of forest fires}},
+{A Albert-Green*}, CB Dean, D Woolford, J Braun, D Martell, S Cumming, H Campbell, S Taylor and K Lertzman; \emph{Wildland Fire Conference}, Kitchener, Ontario, 2010. %\href{https://sites.ualberta.ca/~wildfire/2010/Posters/P%2036.pdf}{\emph{link}}
+\end{itemize}
+
+\spacing{1}{
+\section*{Peer Review}
+
+\begin{itemize}
+\item Canadian Journal of Diabetes
+\vspace{-0.07in}
+\item Obesity Reviews
+\vspace{-0.07in}
+\item Journal of Statistical Computation and Simulation
+\vspace{-0.07in}
+\item Journal of Statistical Education
+\end{itemize}
+
+
+\section*{References}
+
+\begin{itemize}
+\item Dr. Paul Gustafson, 604-822-1300, gustaf@stat.ubc.ca
+\vspace{-0.07in}
+\item Dr. John Petkau, 604-822-4673, john@stat.ubc.ca 
+\vspace{-0.07in}
+\item Dr. Charmaine Dean,  vpresearch@uwaterloo.ca
+\end{itemize}
+}
+
+%\section*{Teaching Statement}
+%
+%Statistics is the backbone of the scientific process and as such, allows us to better understand the world around us.  A clear understanding of statistics is key, not only for prospective scientists and researchers, but also for anyone who wishes to gain a basic scientific literacy.
+% \\
+%
+%Teaching statistics is an immensely rewarding experience.  In all interactions with students, I bring respect, integrity, and generosity. As a teaching assistant, I have enjoyed continuously learning how to facilitate meaningful and effective engagement among students through group discussion and problem solving.  My experience tutoring individual students has given me a more intimate understanding of how students work their way towards solutions and tackle specific problems.
+% \\
+%
+%
+%Unfortunately, all too often I encounter students for whom a simple math equation has derailed repeated attempts to succeed.  While a math affliction is unfortunate, it should not be a barrier to an appreciation (and ultimately a clear understanding) of statistics.  After all, statistics is not motivated by mathematical challenges, but rather, by basic questions of how to distinguish signal from noise.  Once a student understands the questions being asked of the data, and how to interpret statistical answers, necessary math will follow. Ultimately, when students can gain an appreciation for the value of statistics, they find the means to succeed.  A patient, understanding and encouraging teacher plays a key role in this process.
+% \\
+%
+%
+%It is tremendously important for me that every student leaves class having had a valuable experience.  If a student is already struggling and is unable follow things from the very beginning of the lecture, there is little benefit to attending.  On the other hand, advanced students, who are already familiar with the material, can be discouraged if things are not challenging.  As such, I believe in well-structured lectures that address the needs of all.  The first few minutes of every lecture should be accessible to all students, regardless of how well they are keeping up.  The last few minutes should not only review the material covered, but also provide more challenging questions directed at advanced and curious students.
+% \\
+%
+%
+%Due to my experience as a working statistician, I have an ability to put class material in a broader perspective.  How and when are these methods used in practice?  What tools are being used in industry? Working with collaborators in a wide range of fields, I must often explain complex statistical results to non-statisticians and the general public.  This experience translates well into the classroom where clarity and transparency are key for an effective learning environment.
+% \\
+%
+%
+%It is astounding how much a student can gain from a well-taught course in statistics. In addition to the ability to better understand the language of science and research, students acquire appreciation for the importance of critical analysis.  My motivation to teach statistics is rooted in my desire to help others understand and appreciate something I know to be incredibly valuable and my belief that it can be, under the right circumstances, accessible to all.
+
+%\section*{Independent Environmental Consulting Work}
+
+%
+%\section*{Selected Statistical Consulting Work}
+%
+%
+%\MYhref[cyan]{https://clinicaltrials.gov/ct2/show/NCT01611194}{\textbf{Traumatic Brain Injury (TBI) Study including the BIMA, NORM and LTF Randomized Clinical Trials}, 2012-2015} (EMMES CRO)
+%
+%Sponsor: U.S. Army Medical Research and Materiel Command
+%
+%Role: Study design, analysis of longitudinal outcomes, preparation of protocol and statistical analysis plan, safety monitoring, interim reports.
+%
+%Related Publications: 
+%
+%\begin{itemize}
+%\item {Sleep Assessments for a Mild Traumatic Brain Injury Trial in a Military Population}, James M Walker, Nathan T James, Harlan Campbell, Steffanie H Wilson, Susan Churchill, Lindell K Weaver, \emph{In review} \end{itemize}
+%
+%\begin{itemize}
+%\item {Williams, Christopher, et al. ``Characterization of Baseline EEG Abnormalities the Brain Injury and Mechanisms of Action of Hyperbaric Oxygen (HBO2) for Persistent Post-Concussive Symptoms after Mild Traumatic Brain Injury (mTBI) Study (BIMA).'' Neurology 84.14 Supplement (2015)}
+%\end{itemize}
+%
+%
+%
+%
+%
+%\MYhref[cyan]{https://clinicaltrials.gov/ct2/show/NCT00345176?term=AREDS2&rank=1}{\textbf{AREDS2 Randomized Clinical Trial}, 2012-2013}  (EMMES CRO)
+%
+%Sponsor: National Eye Institute
+%
+%Role: Analysis of longitudinal cognitive data
+%
+%Related Publications: 
+%
+%\begin{itemize}
+%\item {{Effect of Omega-3 Fatty Acids, Lutein/Zeaxanthin, or Other Nutrient Supplementation on Cognitive Function: The AREDS2 Randomized Clinical Trial.} Chew EY, Clemons TE, Agrón E, Launer LJ, Grodstein F, Bernstein PS; Age-Related Eye Disease Study 2 (AREDS2) Research Group. {\it JAMA} 314.8 (2015): 791-801.} 
+%\end{itemize}
+%
+%
+%%\textbf{Data monitoring for forest carbon offset}, 2015 (Independent Contract)
+%%
+%%Sponsor: \MYhref[cyan]{https://takingroot.org/}{Taking Root}\\
+%%Role: Creation of automated reports and interactive maps\\
+%
+%
+%\textbf{Nitric oxide for the reduction of bovine respiratory fever}, 2015 (EMMES CRO)
+%
+%Sponsor: \MYhref[cyan]{http://bovicor.com/}{Bovicor Pharmatech Inc.}
+%
+%Role: Non-inferiority analysis
+%
+%Related Publications: 
+%
+%\begin{itemize}
+%\item {{Non-inferiority of nitric oxide releasing intranasal spray compared to sub-therapeutic antibiotics to reduce incidence of undifferentiated fever and bovine respiratory disease complex in low to moderate risk beef cattle arriving at a commercial feedlot.} Regev-Shoshani, G, et al. \emph{Preventive veterinary medicine} (2015).}
+%\end{itemize}
+%
+%\textbf{Genomic classifier for prostate cancer patients}, 2013 (EMMES CRO)
+%
+%Sponsor: \MYhref[cyan]{https://genomedx.com/}{GenomeDx Biosciences}
+%
+%Role: Data visualization 
+%
+%Related Publications: 
+%
+%\begin{itemize}
+%\item {{Impact of a genomic classifier of metastatic risk on postoperative treatment recommendations for prostate cancer patients: a report from the DECIDE study group}, Badani, Ketan, et al., \emph{Oncotarget} (2013).}
+%\end{itemize}
+%
+%
+%\textbf{Vancouver crime data analysis}, 2012 (Independent contract)
+%
+%Client: Department of Criminology, SFU
+%
+%Role: Data analysis and visualization 
+%
+%Related Publications: 
+%
+%\begin{itemize}
+% \item {{Crime and place: a longitudinal examination of street segment patterns in Vancouver}, Nemeth Curman, Andrea Suzanne. BC. Diss. Arts \& Social Sciences: School of Criminology, (2012).}
+%\end{itemize}
+%
+%\vspace{0.5cm}
+%
+%\textbf{Shuswap Lake E.coli and fecal coliform data analysis}, 2009 (Independent contract)
+%
+%Sponsor: British Columbia - Ministry of the Environment
+%
+%Role: Statistical Analysis of E.coli and fecal coliform data
+%
+%Related Publications: 
+%\begin{itemize}
+%\item \MYhref[cyan]{http://www.csrd.bc.ca/sites/default/files/liquid-waste-management/Septic-Smart/ResourceLibrary/Evaluation-of-risk-from-Houseboat-greywater.pdf}{{Evaluation of Risk from Houseboat Greywater discharges to Recreational Water Users on Shuswap Lake Beaches, Columbia Shuswap Regional District Report}}
+%\end{itemize}
+
+
+
+%\textbf{UBC Faculty of Medicine}, 2012-2015 (EMMES CRO)
+%
+%Clients: Dr. Jerilynn Prior, Dr. Simon Rabkin, Dr. Tricia Tang, Dr. Evelyn Wong
+%
+%Role: Data analysis
+%
+%Related Publications: 
+%
+%\begin{itemize}
+%\item {Progestin co-treatment with estrogen and change in bone mineral density--
+%a meta-analysis of direct randomization to estrogen-progestin versus estrogen-alone}, JC Prior, {H Campbell}, D Giustini, DJS Thompson, S Kalyan, V Seifert-Klauss,  JD Adachi;  Revisions for submission to \emph{Osteoporosis International}. \end{itemize}
+%
+%\begin{itemize}
+%\item {Comparison of reducing epicardial fat by exercise, diet or bariatric surgery weight loss strategies: A systematic review and meta-analysis}, S Rabkin and {H Campbell}, {\it Obesity Reviews}, 16.5 (2015): 406-415.
+%\end{itemize}
+%
+%\textbf{BC Diabetes Centre}, 2012-2015 (EMMES CRO)
+%
+%Sponsor: Dr. Thomas Elliot
+%
+%Role: Data analysis and design
+%
+%Related Publications:
+%
+%\begin{itemize}
+%\item  \MYhref[cyan]{http://www.sciencedirect.com/science/article/pii/S1499267113013567}{\textbf{Impact on diabetes care of access to an online patient portal}}, M Lau, {H Campbell}, T Tang, DJS Thompson, and T Elliott, {\it Canadian Journal of Diabetes}, 38.1 (2014): 17-21.
+%\end{itemize}
+
+
+%
+%{\textbf{2CARE}}, 2014 (EMMES CRO)
+%
+%Sponsor: Massachusetts General Hospital
+%
+%Role: \MYhref[cyan]{http://en.hdbuzz.net/171}{Interim Analysis for Coenzyme Q10 in Huntington's Disease Phase III Trial}
+
+
+%\section*{Research Interests}
+%\vspace{-0.20in}
+%\begin{itemize}
+%\item
+%\begin{multicols}{3}
+%MCMC \\ Joint-Rank models\\ False discovery rates \\ 
+%\columnbreak
+%\\  Clustered binary data  \\Propensity score methods\\ Adaptive clinical trials \\
+%\columnbreak
+% \\Isotonic regression \\Resampling methods \\ Hierarchical models \\
+%\end{multicols}
+%\end{itemize}
+%
+%\vspace{-0.15in}
+%\section*{Computer Skills}
+%\vspace{-0.05in}
+%\begin{itemize}
+%\item The basics : C++, Maple, MySQL, Processing
+%\item In depth : R, MATLAB, SAS, \LaTeX
+%\end{itemize}
+
+
+
+
+%Comparison of home sampling of A1c with blotter paper to A1c from local in-lab venous blood sample
+%Dr. Tom Elliott, MBBS
+%Dr. Kent Dooley
+%Dr. Mira Zhang
+%Dr. Darby Thompson
+%Harlan Campbell
+
+%\vspace{-0.06in}
+%\section*{Data Visualizations}
+%%\vspace{-0.05in}
+%
+%\begin{itemize}
+%\item {Badani, Ketan, et al. "Impact of a genomic classifier of metastatic risk on postoperative treatment recommendations for prostate cancer patients: a report from the DECIDE study group." Oncotarget (2013).}
+%\end{itemize}
+
+
+%\begin{itemize}
+%\item Survival Analysis of British Columbia Wildland Fires, presentation for the \emph{GEOIDE Forestry Virtual Meeting}, 2011.
+%\item Data Visualization with R, presentation for the \emph{SFU-UBC Joint Graduate Student Workshop in Statistics}, 2011.
+%\end{itemize}
+
+
+
+%\end{small}
+
+
+%\bigskip
+
+% Footer
+%\begin{center}
+ % \begin{footnotesize}
+  %  Last updated: \today \\
+ %   \MYhref[cyan]{\footerlink}{\texttt{\footerlink}}
+ % \end{footnotesize}
+%\end{center}
+
+\end{document}
