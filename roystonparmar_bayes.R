@@ -137,5 +137,8 @@ RPB <- RoystonParmarBayes(times,
 
 # we can compare this result to frequentist fit:                    
 splw <- flexsurvspline(Surv(times, event) ~ as.factor(treat_id) + 
-				gamma1(as.factor(treat_id)), k=2, scale="hazard")
+				gamma1(as.factor(treat_id)), k=1, scale="hazard")				
 lines(splw, col="blue")                           
+
+
+cbind(coefficients(splw) [c(4,5,1,2,3)], RPB[,"Mean"])
